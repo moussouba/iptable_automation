@@ -1,0 +1,7 @@
+# Fichiers et dossiers générés par PyCharm
+.idea/
+__pycache__/
+*.pyc
+
+# Log
+*.log
